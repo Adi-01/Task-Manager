@@ -1,4 +1,4 @@
-<h1>To-Do App</h1>
+<h1>Task Manager</h1>
 <p>A modern and interactive To-Do application built using React and Bootstrap. This app helps users manage tasks efficiently with features like adding, deleting, and updating tasks across different status categories.</p>
 
 ---
