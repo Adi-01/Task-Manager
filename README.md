@@ -4,7 +4,7 @@
 ---
 
 <h2>🚀 Demo</h2>
-<p>Check out the live version: <a href="https://your-live-link.com" target="_blank">Live Demo</a></p>
+<p>Check out the live version: <a href="https://task-manager-by-adi-01.netlify.app/" target="_blank">Live Demo</a></p>
 
 ---
 
